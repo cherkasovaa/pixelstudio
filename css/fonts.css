@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Lato-Regular.eot?#iefix") format("embedded-opentype"),
+   url("../fonts/Lato-Regular.woff") format("woff"),
+    url("../fonts/Lato-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lato-Italic";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/lato-lightitalic.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/lato-lightitalic.woff") format("woff"),
+      url("../fonts/Lato-LightItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lucida-Grande";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Lucida-Grande.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Lucida-Grande.woff") format("woff"),
+    url("../fonts/Lucida-Grande.ttf") format("truetype");
+}
